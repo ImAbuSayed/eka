@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/eka/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get a Licensing Quote for Eka](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Apply for Music License: Eka](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> অন্ধকার এই রাতের শেষে এসো আমার কাছে
+> তোমার ছোঁয়ায় আমার শরীর যেন আজ বাঁচে
+> নিস্তব্ধ এই শীতল হাওয়া গায়ে মেখে নাও
+> চোখে চোখ রেখে তুমি আমায় ভালোবাসতে দাও
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
